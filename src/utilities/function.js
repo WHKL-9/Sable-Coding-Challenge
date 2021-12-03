@@ -1,15 +1,3 @@
-export const fetchTransaction = async (endpoint) => {
-  try {
-    const response = await fetch(endpoint);
-    if (response.ok) {
-      const data = await response.json();
-      console.log(data)
-      return data;
-    }
-  } catch (error) {
-    console.log(error);
-  }
-};
 
 export const blockTransaction = async (id, endpoint, setLoading) => {
   try {
