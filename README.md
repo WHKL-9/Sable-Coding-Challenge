@@ -2,6 +2,8 @@ Click [here](https://github.com/sable-money/coding-challenge) for the task chall
 
 Stack used in this challenge: React & Node.js
 
+To launch this project on your local computer, simply download this project and install the npm packages with "npm i"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
