@@ -1,3 +1,7 @@
+Click [here](https://github.com/sable-money/coding-challenge) for the task challenge 
+
+Stack used in this challenge: React & Node.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
