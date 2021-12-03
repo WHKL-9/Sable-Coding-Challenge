@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  overflow-x: hidden;
+
+}
+
+/* Navbar */
+.myNavbar{
+  background-color: #2AD2C9;
+}
+
+.sableLogo{
+  height: 4rem;
+}
+
+/* Block/Approve Button */
+
+.blockBtn{
+  background-color: #CB5050!important;
+}
+
+.blockBtn:hover, .approveBtn:hover{
+  transform: scale(1.2)
+}
+
+.approveBtn, .detectiveBtn{
+  background-color: #23C0B1!important;
+}
+
+.detectiveBtn{
+  box-shadow: none!important;
+  border: none!important;
+  cursor: default !important;
+}
