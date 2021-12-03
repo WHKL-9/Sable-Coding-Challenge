@@ -1,4 +1,4 @@
-Click [here](https://github.com/sable-money/coding-challenge) for the task challenge 
+Click [here](https://github.com/sable-money/coding-challenge) for the original task challenge 
 
 Stack used in this challenge: React & Node.js
 
